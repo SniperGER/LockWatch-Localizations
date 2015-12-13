@@ -3,7 +3,7 @@
  LockWatch_Test
  
  Created by Janik Schmidt on 15.11.15.
- Compatible with Update 1.0.1
+ Compatible with Update 1.1
  Copyright © 2015 Janik Schmidt (Sniper_GER). All rights reserved.
  */
 
@@ -31,8 +31,11 @@
 
 
 /* Settings - Watch Faces */
-"SETTINGS_WATCHFACES_AVAILABLE" = "Verfügbare Ziffernblätter";
-"SETTINGS_WATCHFACES_AVAILABLE_FOOTER" = "Das Deaktivieren von Ziffernblättern kann zu einer Verbesserung der Leistung führen.";
+"SETTINGS_WATCHFACES_STOCK" = "Standard-Ziffernblätter";
+"SETTINGS_WATCHFACES_NO_STOCK" = "Keine vorinstallierten Ziffernblätter";
+"SETTINGS_WATCHFACES_EXTERNAL" = "Drittanbieter-Plugins";
+"SETTINGS_WATCHFACES_NO_EXTERNAL" = "Keine Plugins installiert";
+"SETTINGS_WATCHFACES_AVAILABLE_FOOTER" = "Das Deaktivieren von Ziffernblättern kann zu einer Verbesserung der Leistung führen.\n\nUm Drittanbieter-Plugins zu deaktivieren, müssen diese deinstalliert werden.";
 
 
 /* Settings - Privacy */

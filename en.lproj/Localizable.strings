@@ -3,7 +3,7 @@
   LockWatch_Test
 
   Created by Janik Schmidt on 15.11.15.
-  Compatible with Update 1.0.1
+  Compatible with Update 1.1
   Copyright © 2015 Janik Schmidt (Sniper_GER). All rights reserved.
 */
 
@@ -31,8 +31,11 @@
 
 
 /* Settings - Watch Faces */
-"SETTINGS_WATCHFACES_AVAILABLE" = "Available Watch Faces";
-"SETTINGS_WATCHFACES_AVAILABLE_FOOTER" = "Disabling watch faces can improve performance.";
+"SETTINGS_WATCHFACES_STOCK" = "Stock watch faces";
+"SETTINGS_WATCHFACES_NO_STOCK" = "No preinstalled watch faces";
+"SETTINGS_WATCHFACES_EXTERNAL" = "Third party plugins";
+"SETTINGS_WATCHFACES_NO_EXTERNAL" = "No plugins installed";
+"SETTINGS_WATCHFACES_AVAILABLE_FOOTER" = "Disabling watch faces can improve performance.\n\nTo disable a third party plugin, you have to uninstall it.";
 
 
 /* Settings - Privacy */
